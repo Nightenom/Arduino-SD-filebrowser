@@ -2,8 +2,8 @@
 Arduino SD filebrowser and editor via Serial monitor
 * You can make/remove/browse directories
 * Files can be created/removed/edited/read
-  * Editor only supports append mode now
-  
+  * Editor only supports append mode now
+
 Futures that will be added soon:
 * Copying and moving files
 * Editor:
