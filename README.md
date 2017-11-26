@@ -14,3 +14,5 @@ Futures that will be added soon:
 Futures that will be added sometime in future:
 * Copying and moving directories (as the lib does not support it)
 * Timestamp management
+
+You can use this .ino freely without licence or author's permission
