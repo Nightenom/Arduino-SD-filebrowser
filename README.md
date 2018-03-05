@@ -4,7 +4,7 @@ Arduino SD filebrowser and editor via Serial monitor
 * Files can be created/removed/edited/read
   * Editor only supports append mode now
 
-Futures that will be added soon:
+Futures that will be added soon ("soon"):
 * Copying and moving files
 * Editor:
   * Line numbers and line editing
@@ -15,4 +15,4 @@ Futures that will be added sometime in future:
 * Copying and moving directories (as the lib does not support it)
 * Timestamp management
 
-You can use this .ino freely without licence or author's permission
+You can use this .ino freely without licence or author's permission (but it is still nice to mention him)
